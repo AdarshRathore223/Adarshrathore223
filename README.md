@@ -1,4 +1,4 @@
-[![MasterHead]([https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))](https://adarshrathore.netlify.ap)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://adarshrathore.netlify.ap)
 <h1 align="center">Hi 👋, I'm Adarsh Rathore</h1>
 <h3 align="center">Experienced Software Developer with a proven track record in the full software development lifecycle, including design, development, testing, and deployment. Skilled in front-end development using React JS, Next JS, and Tailwind CSS. Adept in multiple programming languages, databases, and developer tools, ensuring efficient and scalable solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif"/>
